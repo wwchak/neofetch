@@ -1,7 +1,6 @@
 ## Description
-
-Only fill in the fields below if relevant.
-
+Added ArchStrike ASCII to address issue #1311
+Based on the official logo from https://github.com/ArchStrike/ArchStrike
 
 ## Features
 
